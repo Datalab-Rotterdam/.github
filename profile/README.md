@@ -6,8 +6,6 @@
   <img alt="DataLab Rotterdam" src="../resources/logo_with_text.svg" width="320">
 </picture>
 
-# DataLab Rotterdam
-
 **Making the cloud accessible for this generation.**
 
 [Website](https://datalabrotterdam.nl) | [Docs](https://docs.datalabrotterdam.nl/getting-started) | [GitHub](https://github.com/Datalab-Rotterdam)
